@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a sophomore at Wesleyan University studying Computer Science and Mathematics. I am a privacy researcher, a product manager, and most importantly a coder at heart. I have strong communication, problem solving, and abstract & critical thinking skills. I am also highly motivated and deeply enthusiastic to write code that is efficient, and novel.
-
+I'm a software engineer studying Computer Science & Math at Wesleyan and Computer Engineering at Columbia. I’ve built and shipped backend and full-stack features at The Hartford, worked on Android privacy research at Privacy-tech-lab, and led development of an educational Unity game and a campus-wide app with 800+ users. I enjoy working on projects that blend engineering, research, and real-world use.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishant-aggarwal-387b83252/) 
